@@ -1,0 +1,13 @@
+C:\Users\nicks\RiderProjects\sm_lab2\sm_lab2\bin\Debug\netcoreapp3.1\sm_lab2.exe
+C:\Users\nicks\RiderProjects\sm_lab2\sm_lab2\bin\Debug\netcoreapp3.1\sm_lab2.deps.json
+C:\Users\nicks\RiderProjects\sm_lab2\sm_lab2\bin\Debug\netcoreapp3.1\sm_lab2.runtimeconfig.json
+C:\Users\nicks\RiderProjects\sm_lab2\sm_lab2\bin\Debug\netcoreapp3.1\sm_lab2.runtimeconfig.dev.json
+C:\Users\nicks\RiderProjects\sm_lab2\sm_lab2\bin\Debug\netcoreapp3.1\sm_lab2.dll
+C:\Users\nicks\RiderProjects\sm_lab2\sm_lab2\bin\Debug\netcoreapp3.1\sm_lab2.pdb
+C:\Users\nicks\RiderProjects\sm_lab2\sm_lab2\obj\Debug\netcoreapp3.1\sm_lab2.csproj.AssemblyReference.cache
+C:\Users\nicks\RiderProjects\sm_lab2\sm_lab2\obj\Debug\netcoreapp3.1\sm_lab2.AssemblyInfoInputs.cache
+C:\Users\nicks\RiderProjects\sm_lab2\sm_lab2\obj\Debug\netcoreapp3.1\sm_lab2.AssemblyInfo.cs
+C:\Users\nicks\RiderProjects\sm_lab2\sm_lab2\obj\Debug\netcoreapp3.1\sm_lab2.csproj.CoreCompileInputs.cache
+C:\Users\nicks\RiderProjects\sm_lab2\sm_lab2\obj\Debug\netcoreapp3.1\sm_lab2.dll
+C:\Users\nicks\RiderProjects\sm_lab2\sm_lab2\obj\Debug\netcoreapp3.1\sm_lab2.pdb
+C:\Users\nicks\RiderProjects\sm_lab2\sm_lab2\obj\Debug\netcoreapp3.1\sm_lab2.genruntimeconfig.cache
