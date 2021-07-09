@@ -1,0 +1,3 @@
+C:/Users/nicks/CLionProjects/GaluaField/cmake-build-debug/CMakeFiles/GaluaField.dir
+C:/Users/nicks/CLionProjects/GaluaField/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/nicks/CLionProjects/GaluaField/cmake-build-debug/CMakeFiles/rebuild_cache.dir
